@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>JC3 Malaysia News</title>
+    <link>https://public.apac-magnolia-demo.net/jc3/news</link>
+    <atom:link href="https://public.apac-magnolia-demo.net/jc3/news-rss" rel="self" type="application/rss+xml" />
+    <description>JC3 Malaysia official news and updates</description>
+    <language>en-us</language>
+    <pubDate>Wed, 15 Oct 2025 09:06:14 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Oct 2025 09:06:14 +0000</lastBuildDate>
+    <generator>Magnolia CMS RSS Generator</generator>
+
+    <item>
+      <title>The JC3 remains committed to advancing the climate agenda through coordinated and collaborative efforts</title>
+      <link>https://public.apac-magnolia-demo.net/jc3/detail/The-JC3-remains-committed-to-advancing-the-climate-agenda-through-coordinated-and-collaborative-efforts0</link>
+      <description><![CDATA[
+        The Climate Finance Innovation Lab (CFIL) launched on 18 June 2025 aims to serve as a collaborative platform to identify, develop and accelerate innovative climate solutions and mechanisms that can mobilise private and public finance to support Malaysia’s transition to net zero.
+      ]]></description>
+      <pubDate>Thu, 09 Oct 2025 07:15:38 +0000</pubDate>
+      <guid isPermaLink="false">https://public.apac-magnolia-demo.net/jc3/detail/The-JC3-remains-committed-to-advancing-the-climate-agenda-through-coordinated-and-collaborative-efforts0</guid>
+    </item>
+
+    <item>
+      <title>Joint Statement by Bank Negara Malaysia and Securities Commission Malaysia on the Rollout of the Climate Finance Innovation Lab</title>
+      <link>https://public.apac-magnolia-demo.net/jc3/detail/Joint-Statement-by-Bank-Negara-Malaysia-and-Securities-Commission-Malaysia-on-the-Rollout-of-the-Climate-Finance-Innovation-Lab0</link>
+      <description><![CDATA[
+        Climate change poses real risks to the economy and financial system. In response to the increasing threats of climate change, the JC3 was established in September 2019 as a regulator-industry platform, aiming to pursue collaborative actions for building climate resilience within the Malaysia financial sector.
+      ]]></description>
+      <pubDate>Wed, 01 Oct 2025 07:19:46 +0000</pubDate>
+      <guid isPermaLink="false">https://public.apac-magnolia-demo.net/jc3/detail/Joint-Statement-by-Bank-Negara-Malaysia-and-Securities-Commission-Malaysia-on-the-Rollout-of-the-Climate-Finance-Innovation-Lab0</guid>
+    </item>
+
+    <item>
+      <title>Publication of ‘Building Supply Chain Resilience: Insights into Greening Value Chains for ASEAN’ Playbook</title>
+      <link>https://public.apac-magnolia-demo.net/jc3/detail/Publication-of--Building-Supply-Chain-Resilience--Insights-into-Greening-Value-Chains-for-ASEAzN--Playbook</link>
+      <description><![CDATA[
+        The adoption of sustainable, green and low-carbon practices will help SMEs future proof business plans, retain market access and gain a competitive advantage as Malaysia and the world transition to a net zero and sustainable future.
+      ]]></description>
+      <pubDate>Thu, 02 Oct 2025 07:21:24 +0000</pubDate>
+      <guid isPermaLink="false">https://public.apac-magnolia-demo.net/jc3/detail/Publication-of--Building-Supply-Chain-Resilience--Insights-into-Greening-Value-Chains-for-ASEAzN--Playbook</guid>
+    </item>
+
+    <item>
+      <title>Joint Statement by Bank Negara Malaysia and Securities Commission Malaysia on the 14th Joint Committee on Climate Change (JC3) Meeting</title>
+      <link>https://public.apac-magnolia-demo.net/jc3/detail/Joint-Statement-by-Bank-Negara-Malaysia-and-Securities-Commission-Malaysia-on-the-14th-Joint-Committee-on-Climate-Change--JC3--Meeting0</link>
+      <description><![CDATA[
+        Embracing sustainability is not only ethically responsible but also makes good business sense for SMEs. It can lead to improved financial performance, enhanced reputation, and a positive impact on the planet and society.
+      ]]></description>
+      <pubDate>Wed, 08 Oct 2025 07:23:40 +0000</pubDate>
+      <guid isPermaLink="false">https://public.apac-magnolia-demo.net/jc3/detail/Joint-Statement-by-Bank-Negara-Malaysia-and-Securities-Commission-Malaysia-on-the-14th-Joint-Committee-on-Climate-Change--JC3--Meeting0</guid>
+    </item>
+
+  </channel>
+</rss>
