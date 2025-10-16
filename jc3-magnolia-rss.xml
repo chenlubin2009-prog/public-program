@@ -3,7 +3,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
-    <title>JC3 Malaysia News</title>
+    <title>JC3 Malaysia News from Magnolia</title>
     <link>https://public.apac-magnolia-demo.net/jc3/news</link>
     <atom:link href="https://public.apac-magnolia-demo.net/jc3/news-rss" rel="self" type="application/rss+xml" />
     <description>JC3 Malaysia official news and updates</description>
